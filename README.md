@@ -18,7 +18,7 @@ Your Manager has laid out the following requirements for the project:
 
 ##Learning Objectives
 By the end of this project the employee will be able to...
-
+ 
 * Clone and push a GitHub repository
 * Implement Math.random
 * Use conditions to evaluate a function

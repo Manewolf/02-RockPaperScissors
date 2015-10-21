@@ -6,8 +6,8 @@ The do now activity for this session is to write out the rules and conditions fo
 
 | Player1  |  Player2 |  Winner |
 |----------|----------|---------|
-| Rock     | Rock     |         |
-| Rock     | Paper    |         |
+| Rock     | Rock     | Tie     |
+| Rock     | Paper    | Paper   |
 | Rock     | Scissors |         |
 | Paper    | Rock     |         |
 | Paper    | Paper    |         |
